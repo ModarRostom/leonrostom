@@ -28,7 +28,7 @@ Motivated IT specialist with a focus on system integration and network security.
   <li><b>Technical Customer Support:</b> Provided ongoing technical support for end-users regarding hardware, software, and network issues.</li>
 </ul>
 
-<!--
+
 ## 📚 Education
 
 ### IT Specialist for Digital Networking
@@ -43,7 +43,7 @@ Motivated IT specialist with a focus on system integration and network security.
 In January 2022, I was still enrolled as a student and worked at Bertrandt Technologie GmbH as a working student. Over time, I received an offer from Bertrandt to start an apprenticeship as an IT specialist for digital networking. I found the apprenticeship more concrete and practical than my studies and decided to start the apprenticeship in September 2022.
 </div>
 
-
+<!--
 ## 🎨 Skills
 
 ### 🗣️ Languages
