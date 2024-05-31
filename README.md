@@ -28,7 +28,7 @@ Motivated IT specialist with a focus on system integration and network security.
   <li><b>Technical Customer Support:</b> Provided ongoing technical support for end-users regarding hardware, software, and network issues.</li>
 </ul>
 
-
+<!--
 ## 📚 Education
 
 ### IT Specialist for Digital Networking
