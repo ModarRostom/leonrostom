@@ -28,7 +28,7 @@ Motivated IT specialist with a focus on system integration and network security.
   <li><b>Technical Customer Support:</b> Provided ongoing technical support for end-users regarding hardware, software, and network issues.</li>
 </ul>
 
-<!--
+
 ## 📚 Education
 
 ### IT Specialist for Digital Networking
@@ -79,4 +79,23 @@ In January 2022, I was still enrolled as a student and worked at Bertrandt Techn
     <img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;">
   </a>
 </div>
+
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+
+----
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonrostom&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonrostom&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mettice" height="230px"/>
+<br/>
+</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=leonrostom&style=for-the-badge&color=green" alt=""/>
+</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p> 
+</details>
 -->
