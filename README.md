@@ -106,4 +106,3 @@ In January 2022, I was still enrolled as a student and worked at Bertrandt Techn
 </p> 
 </details>
 
-"
