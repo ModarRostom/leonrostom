@@ -80,6 +80,12 @@ In January 2022, I was still enrolled as a student and worked at Bertrandt Techn
   </a>
 </div>
 
+###  👀 Profile Views 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=leonrostom&style=for-the-badge&color=green" alt=""/>
+</div>
+
+
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 
@@ -89,11 +95,9 @@ In January 2022, I was still enrolled as a student and worked at Bertrandt Techn
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonrostom&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonrostom&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mettice" height="230px"/>
-<br/>
+
 </p>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonrostom&style=for-the-badge&color=green" alt=""/>
-</div>
+
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p> 
