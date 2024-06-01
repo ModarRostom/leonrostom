@@ -52,12 +52,13 @@ In January 2022, I was still enrolled as a student and worked at Bertrandt Techn
 - **Arabic:** Native speaker
 
 ### 💻 Technical Skills
-- **C/C++:** Advanced
-- **VHDL Programming:** Proficient
-- **Bash Scripting:** Proficient
-- **JavaScript:** Web and Backend Development
-- **Network Knowledge:** Extensive IT Knowledge
-- **Azure DevOps:** Cloud Solutions
+- **C/C++:** ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+- **VHDL Programming:** ![VHDL](https://img.shields.io/badge/-VHDL-00427E?style=flat&logo=verilog&logoColor=white)
+- **Bash Scripting:** ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- **JavaScript:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Network Knowledge:** ![Networking](https://img.shields.io/badge/-Networking-0078D4?style=flat&logo=azure-devops&logoColor=white)
+- **Azure DevOps:** ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+
 
 ### 🤝 Personal Skills
 <div style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
