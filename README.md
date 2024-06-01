@@ -1,9 +1,9 @@
 ![github_banner](https://github.com/leonrostom/leonrostom/assets/48219025/3c8b4972-df35-4502-aa6c-87e17e773ed2)
-
+<!--
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+my+Profile!+👋;+I'm+Modar+Rostom!;IT+Specialist+For+Digital+Networking;" />
 </h1>
-
+-->
 ## 🎯 Career Objective
 <div style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
 Motivated IT specialist with a focus on system integration and network security. Throughout my career, I have particularly valued teamwork and the ability to adapt to different work environments. I am skilled in troubleshooting, maintaining network infrastructures, and implementing security measures to protect data. Proven in optimizing system performance and ensuring system reliability. I work effectively under pressure, both independently and as part of a team. I adapt flexibly to diverse project environments and team configurations. My goal is to further deepen my skills and contribute to the successful implementation of projects.
@@ -28,6 +28,7 @@ Motivated IT specialist with a focus on system integration and network security.
   <li><b>Technical Customer Support:</b> Provided ongoing technical support for end-users regarding hardware, software, and network issues.</li>
 </ul>
 
+
 ## 📚 Education
 
 ### IT Specialist for Digital Networking
@@ -41,6 +42,7 @@ Motivated IT specialist with a focus on system integration and network security.
 <div style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
 In January 2022, I was still enrolled as a student and worked at Bertrandt Technologie GmbH as a working student. Over time, I received an offer from Bertrandt to start an apprenticeship as an IT specialist for digital networking. I found the apprenticeship more concrete and practical than my studies and decided to start the apprenticeship in September 2022.
 </div>
+
 
 ## 🎨 Skills
 
@@ -81,20 +83,27 @@ In January 2022, I was still enrolled as a student and worked at Bertrandt Techn
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=leonrostom&style=for-the-badge&color=green" alt=""/>
 </div>
-
 <details>
 <summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Modar Rostom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonrostom&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Modar Rostom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonrostom&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="200px"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Modar Rostom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonrostom&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Modar Rostom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonrostom&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="200px"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p> 
 </details>
+
+"
